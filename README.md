@@ -9,16 +9,11 @@ To install karate and Serenity, follow the steps below:
 6. Install node https://nodejs.org/es
 7. Configure global variables, you must add them in Edit Environment Variables
 8. Install Cucumber Plugins for Java.
-9. Clone, Fork the following repository
-   https://github.com/serenity-bdd/serenity-junit-screenplay-starter, this repository contains the SerenityJjunit Screenplay base
-10. For the purpose of this Challenge, I attach the task https://github.com/JRafacand/nttdata
-11. You can follow me at https://github.com/JRafacand/karate11
+9. For the purpose of this Challenge, I attach the task https://github.com/JRafacand/karate11 
+10. You can follow me at https://github.com/JRafacand
 ## Executing the tests
 1. Click on the green arrow to run the tests
-2. To run the tests from the console, you must execute the following command:
-   ```bash
-   gradle clean test aggregate
-   ```
+
 ![img.png](img.png)
 
 ![img_1.png](img_1.png)
